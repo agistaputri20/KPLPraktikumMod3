@@ -21,6 +21,10 @@ namespace modul3_1302201140
             KodeBuah.getKodeBuah("Anggur", "M00");
             KodeBuah.getKodeBuah("Melon", "N00");
             KodeBuah.getKodeBuah("Semangka", "O00");
+
+            Console.WriteLine("\n");
+
+            PosisiKarakterGame.Mulai();
         }
     }
 }
